@@ -1,2 +1,4 @@
 main
-file2 content
+file2 content - changed2
+
+thank you 2
